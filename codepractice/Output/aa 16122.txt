@@ -1,0 +1,1 @@
+{'Message': 'aa 16122 Your Loan is approved, details:', 'Principal': 17788, 'Interest': 622.58, 'Total': 18410.58}
