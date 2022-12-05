@@ -1,0 +1,16 @@
+'''
+# multiplication table in python in for loop
+ourNum = int(input("Enter the number you want to generate a multiplication table for, then hit the `enter` key: "))
+ourRange = range(1,20)
+for x in ourRange:
+    result = ourNum * x
+    print(ourNum," * ",x," = ",result)
+'''
+
+# multiplication table in python in while loop
+ourNum = int(input("Enter the number you want to generate a multiplication table for, then hit the `enter` key: "))
+p = 1
+while p < 20:
+    result = ourNum * p
+    print(ourNum, " * ", p," = ",result) 
+    p = p + 1    
